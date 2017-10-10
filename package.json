@@ -1,8 +1,8 @@
 {
-  "name": "monk-placeholder-content-docs",
+  "name": "vue-default",
   "version": "1.0.0",
-  "description": "Placeholder content based on Facebook, create with Vue.",
-  "author": "Monk <contato@agmonk.com>",
+  "description": "Vue default",
+  "author": "gustavoquinalha <gusquinalha@gmail.com>",
   "scripts": {
     "dev": "node build/dev-server.js",
     "start": "node build/dev-server.js",

@@ -5,6 +5,11 @@
 ``` bash
 $ git clone https://github.com/gustavoquinalha/vue-default.git my-app
 ```
+or
+
+``` bash
+$ npm install vue-default
+```
 
 ## Install dependencies
 ``` bash

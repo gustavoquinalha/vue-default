@@ -1,22 +1,22 @@
 # Vue default
 
-## clone the project
+## Clone the project
 
 ``` bash
 $ git clone https://github.com/gustavoquinalha/vue-default.git my-app
 ```
 
-## install dependencies
+## Install dependencies
 ``` bash
 $ npm install
 ```
 
-## serve with hot reload at localhost:8080
+## Serve with hot reload at localhost:8080
 ``` bash
 $ npm start
 ```
 
-# build for production
+## Build for production
 ``` bash
 $ npm run build
 ```

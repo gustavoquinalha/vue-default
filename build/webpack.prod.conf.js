@@ -31,10 +31,10 @@ var webpackConfig = merge(baseWebpackConfig, {
   plugins: [
     new WebpackPwaManifest({
       filename: "manifest.json",
-      name: 'Monk default',
+      name: 'Vue default',
       start_url: "./?utm_source=web_app_manifest",
-      short_name: 'Monk default',
-      description: 'Monk default',
+      short_name: 'Vue default',
+      description: 'Vue default',
       orientation: "portrait",
       display: "standalone",
       background_color: '#dddddd',
